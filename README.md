@@ -4,4 +4,4 @@ This is a Udacity project for understanding basics of C++ and the A* search algo
 
 - Run 'build.bat' file to build the solution. The batch file also opens the AStar.soln project.
 - Right click on AStar project and select 'set as StartUp project' option.
-
+- maze.board is the input grid. It is located inside 'src' folder.
